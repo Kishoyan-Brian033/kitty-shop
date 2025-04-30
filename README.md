@@ -34,7 +34,7 @@ Alternatively, you can visit the live deployed version of the site here:
 ## Contact
 
 If you have any questions or need support, please contact us at:  
-Email: support@gmail.com  
+Email: brianmwasbayo@gmail.com  
 Phone: +254700866007
 
 ---
