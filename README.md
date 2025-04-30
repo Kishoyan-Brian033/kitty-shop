@@ -1,6 +1,6 @@
 # Kitter - High Quality Pet Food
 
-[Vercel Deployment](https://beauty-glow.vercel.app/)
+[View Live Project](https://beauty-glow.vercel.app/)
 
 Kitter is a modern, responsive eCommerce HTML template designed for a pet food shop. It offers a clean and attractive layout to showcase pet food products, categories, special offers, and services.
 
